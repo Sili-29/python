@@ -28,3 +28,6 @@ elif choice == "%":
 
 else :
     print ("your selection is invalid")
+
+
+print ("  Finally Done with the if else and operator of python")
