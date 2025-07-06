@@ -13,4 +13,4 @@ print (name[0:3])
 
 # name[0:3] ='my'   #it's impossible we cannot change
 
-print('my'+name[3:])
+print('my'+name[3:]) # hmmmm we can change like this
