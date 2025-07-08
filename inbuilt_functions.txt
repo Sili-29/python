@@ -1,0 +1,48 @@
+print()	Prints output to the console
+input()	Takes user input from the console
+type()	Returns the type of an object
+len()	Returns the length of a sequence (string, list, etc.)
+id()	Returns the identity (memory address) of an object
+abs()	Returns the absolute value
+round()	Rounds a number to a specified decimal
+pow(x, y)	Same as x**y, raises x to the power y
+max()	Returns the largest of the inputs
+min()	Returns the smallest of the inputs
+sum()	Returns the sum of elements in a list or tuple
+
+int()	Converts to an integer
+float()	Converts to a float
+str()	Converts to a string
+list()	Converts to a list
+tuple()	Converts to a tuple
+dict()	Converts to a dictionary
+bool()	Converts to a Boolean value
+set()	Converts to a set
+chr()	Returns character from Unicode
+ord()	Returns Unicode from character
+format()	Formats strings
+repr()	Returns a string representation of an object
+
+
+range()	
+
+Generates a sequence of numbers
+enumerate()	Adds counter to iterable
+zip()	Combines multiple iterables
+sorted()	Returns a sorted list
+reversed()	Returns a reversed iterator
+all()	Returns True if all elements are true
+any()	Returns True if any element is true
+map()	Applies a function to all items
+filter()	Filters items based on a function
+
+eval()	
+Executes a Python expression (use with caution)
+exec()	Executes dynamically created code
+help()	Displays help information
+dir()	Lists attributes and methods of an object
+globals()	Returns current global symbol table
+locals()	Returns current local symbol table
+isinstance()	Checks if an object is an instance of a class
+issubclass()	Checks if a class is subclass of another
+
