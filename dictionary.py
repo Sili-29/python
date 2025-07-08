@@ -12,7 +12,7 @@ print(car['km'])
 
 #how to add the items or append the items
 marks['history']=85
-print(marks)
+print(marks)    
 
 # there are 2 ways of getting the values of keys
 print(marks.get('history'))
